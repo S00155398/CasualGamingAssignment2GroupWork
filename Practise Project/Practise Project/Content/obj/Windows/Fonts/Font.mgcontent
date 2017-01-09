@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Admin/Desktop/Practise Project/Practise Project/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2015-08-17T04:51:50+01:00</SourceTime>
+  <DestFile>C:/Users/Admin/Desktop/Practise Project/Practise Project/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2017-01-09T19:39:29.3248644+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

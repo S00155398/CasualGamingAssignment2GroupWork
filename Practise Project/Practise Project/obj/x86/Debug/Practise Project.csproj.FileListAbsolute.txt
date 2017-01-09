@@ -1,0 +1,167 @@
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\background.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\space_race_logo.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Collectable_strip32.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Exit Image.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Enemy Images\chasingEnemy.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Fonts\Font.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerIdle_strip14.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerLeft_strip14.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerRight_strip14.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerSpriteSheetAll.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerUpDown_strip14.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\rectFrame.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.pdb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jake\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.exe
+C:\Users\Jake\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.pdb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.wma
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\lose.xnb
+C:\Users\Jake\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Winning Track.xnb
+F:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.exe
+F:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.pdb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\background.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\space_race_logo.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Collectable_strip32.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Exit Image.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Enemy Images\chasingEnemy.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Fonts\Font.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.wma
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\lose.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerIdle_strip14.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerLeft_strip14.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerRight_strip14.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerSpriteSheetAll.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerUpDown_strip14.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\rectFrame.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Content\Winning Track.xnb
+F:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe
+F:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.pdb
+F:\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.csprojResolveAssemblyReference.cache
+E:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.exe
+E:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.pdb
+E:\Practise Project\Practise Project\obj\x86\Debug\Practise Project.csprojResolveAssemblyReference.cache
+E:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe.config
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.wma
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\lose.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\rectFrame.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Winning Track.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\background.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\space_race_logo.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Collectable_strip32.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Exit Image.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Enemy Images\chasingEnemy.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Fonts\Font.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerIdle_strip14.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerLeft_strip14.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerRight_strip14.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerSpriteSheetAll.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerUpDown_strip14.xnb
+E:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe
+E:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.pdb
+E:\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe.config
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe.config
+C:\Users\Admin\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.exe
+C:\Users\Admin\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.pdb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\background.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Backgrounds\space_race_logo.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Collectable_strip32.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Collectables and Exit Image\Exit Image.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Enemy Images\chasingEnemy.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Fonts\Font.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.wma
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\greed.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\lose.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerIdle_strip14.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerLeft_strip14.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerRight_strip14.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerSpriteSheetAll.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Player Images\PlayerUpDown_strip14.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\rectFrame.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Content\Winning Track.xnb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.exe
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\Practise Project.pdb
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Admin\Desktop\Practise Project\Practise Project\obj\x86\Debug\Practise Project.csprojResolveAssemblyReference.cache

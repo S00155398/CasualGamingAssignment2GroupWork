@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Admin/Desktop/Practise Project/Practise Project/Content/greed.mp3</SourceFile>
+  <SourceTime>2016-08-12T02:39:08+01:00</SourceTime>
+  <DestFile>C:/Users/Admin/Desktop/Practise Project/Practise Project/Content/bin/Windows/greed.xnb</DestFile>
+  <DestTime>2017-01-09T19:39:32.8728644+00:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Admin/Desktop/Practise Project/Practise Project/Content/bin/Windows/greed.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
